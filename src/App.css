@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.calc-wrapper {
+  width: 20em;
+  height: 30em;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+}

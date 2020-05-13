@@ -1,0 +1,17 @@
+.button-wrapper {
+  height: 4em;
+  display: flex;
+  justify-content: center; /* Center item horizontally */
+  align-items: center; /* Vertically align items */
+  font-weight: lighter;
+  font-size: 1.4em;
+  background-color: #1e90ff;
+  color: #fff;
+  flex: 1;
+  outline: 1px solid #585858; /* Outline makes it inside */
+}
+
+.operator {
+  background-color: #0074e4;
+  color: white;
+}
