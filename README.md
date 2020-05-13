@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-                                       Live Demo: https://benkldev.github.io/react-calculator/
+                                     Live Demo: https://benkldev.github.io/react-calculator/
 
 In the project directory, you can run:
 
